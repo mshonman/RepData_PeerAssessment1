@@ -3,7 +3,6 @@
 1.) Reading in dataset.
 
 ```{r, echo = TRUE}
-#setwd("./data")
 library(plyr)
 library(graphics)
 library(lattice)
